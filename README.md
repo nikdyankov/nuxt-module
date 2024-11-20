@@ -1,0 +1,2 @@
+# nuxt-module
+Nuxt module
